@@ -156,6 +156,6 @@ Kode sumber, desain, gambar, dan logo dalam repositori ini dibuat dan dimiliki s
 
 <div align="center">
 
-Dibuat dengan ❤️ dan 🍌🧀 di Gorontalo
+© 2025 Moh. Agil S. Abdul · Gorontalo, Indonesia.
 
 </div>
