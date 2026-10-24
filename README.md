@@ -83,8 +83,8 @@ Tidak perlu instalasi apa pun.
 **Cara cepat:** unduh atau *clone* repositori ini, lalu buka `index.html` di browser.
 
 ```bash
-git clone https://github.com/gemorca/<nama-repo>.git
-cd <nama-repo>
+git clone https://github.com/gemorca/pisang-keju-gorotanlo.git
+cd pisang-keju-gorontalo
 ```
 
 **Atau jalankan dengan server lokal:**
